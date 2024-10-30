@@ -1,0 +1,20 @@
+{
+    "name": "legitimate/legitimate",
+    "description": "This plugin lets users automatically submit their posts to their Legitimate profile.",
+    "authors": [
+        {
+            "name": "Legitimate",
+            "email": "developer@legitimate.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Legitimate\\":"src/"
+        },
+        "files" : [
+            "src/constants.php",
+            "src/functions.php"
+        ]
+    }
+}

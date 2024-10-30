@@ -1,0 +1,23 @@
+#legitimate-content{
+    max-width: 600px;
+}
+#legitimate-content th {
+    text-align: left;
+}
+#legitimate-content p {
+    text-align: left;
+    margin: 0;
+}
+#legitimate-content .full-width{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.half-width{
+    width: 50%;
+}
+#legitimate-content .button.button-hero {
+    padding: 0 20px;
+    line-height: 1px;
+    height: 30px;
+    min-height: auto;
+}
